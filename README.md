@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha-03&label=Profile%20views&color=0e75b6&style=flat" alt="diksha-03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha-03" alt="diksha-03" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science and Machine Learning (DSML) from Scaler**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diksha-03](https://github.com/Diksha-03)
@@ -26,6 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diksha-03&show_icons=true&locale=en&layout=compact" alt="diksha-03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diksha-03&show_icons=true&locale=en" alt="diksha-03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha-03&" alt="diksha-03" /></p>
-
